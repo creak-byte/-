@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>游戏推荐</title> <!--标题-->
+	</head>
+	<body>
+		<h1 style="text-align:center;">游戏推荐</h1>
+		<hr />
+		<h2>一、Tom Clancy's Rainbow Six Siege</h2>
+		<img src="https://ts1.cn.mm.bing.net/th/id/R-C.6b93c118958eb01d6049b88d67233dbb?rik=b5%2btJ3iqM2tWxA&riu=http%3a%2f%2fwww.3dmgame.com%2fuploads%2fallimg%2f161201%2f271_161201054139_1.jpg&ehk=Xq0AjQsE%2fqoSCEM04mbbkoxg7uRz%2bT%2f%2bDNQwzH1lZJQ%3d&risl=&pid=ImgRaw&r=0">
+		<p>我最喜欢的FPS游戏，陪伴了我高中三年，对我来说这个游戏意义重大，饱含回忆。</p>
+		<h2>游戏特色</h2>
+		<h3>近距离战斗</h3>
+		<img src="https://cdn.akamai.steamstatic.com/steam/apps/359550/extras/20637_R6S_STEAM_CLOSE_QUARTERS_GIF_CH.gif.png?t=1685724234"/>
+		<div style="text-indent: 2em;">《彩虹六号：围攻》的地图均是以CQB为设计基准，模拟了现代小规模反恐行动中的情况，结合侧身、俯仰等多种姿势动作，熟悉地图后的玩家能够充分发挥想象力进行一系列的战术设计。</div>
+		<h3>地形破坏</h3>
+		<img src="https://cdn.akamai.steamstatic.com/steam/apps/359550/extras/20636_R6S_STEAM_TOOLS_OF_DESTRUCTION_GIF_CH.gif.png?t=1685724234"/>
+		<div style="text-indent: 2em;">室内地图中设有大量的可破坏的墙面、天花板等地形，能够根据战术需求进行调整并加以利用来赢得比赛胜利。</div>
+		<h3>持续进化</h3>
+		<img src="https://cdn.akamai.steamstatic.com/steam/apps/359550/extras/20478_R6S_STEAM_ALWAYS_EVOLVING_GIF_CH.gif.png?t=1685724234">
+		<div style="text-indent: 2em;">《彩虹六号：围攻》不断演进，让玩家持续体验全新策略与战术。每次更新都会推出全新围攻规则，包含全新特警干员、武器、器械以及地图。面对千变万化的场景，与朋友一同并肩作战，成为出类拔萃、令人闻之色变的特警干员</div>
+		<br />
+		<a href="https://zh-cn.ubisoft.com/games/r6" target="_blank">游戏官网</a>
+	</body>
+</html>
